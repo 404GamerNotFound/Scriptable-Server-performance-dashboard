@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Preview
 
-<img src="image/img1.jpeg" />
+<img src="image/img1.png" />
 
 ## Contact
 
