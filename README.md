@@ -59,6 +59,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## Preview
+
+<img src="image/img1.jpeg" />
+
 ## Contact
 
 Tony Brüser - Tony@Brüser.com
